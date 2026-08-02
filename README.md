@@ -1,6 +1,6 @@
 # Hi there, I'm Kenneth 👋
 
-### **Full-Stack Software Engineer | Next.js, Python, Java & AI Micro-SaaS**
+### **Full-Stack Software Engineer | Next.js, Python, Java & AI SaaS**
 
 Classically trained software engineer with deep backend roots (**Java/Spring Boot**) who ships modern, high-speed web apps and AI workflows (**Next.js/TypeScript/Python**). I bridge the gap between enterprise-grade security/architecture and rapid startup execution.
 
