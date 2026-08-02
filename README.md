@@ -8,8 +8,10 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 
 ### 🚀 **Featured Builds & Architecture**
 
-* 🤖 **ResuMaxxing (AI Micro-SaaS):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
-* 🎓 **ERUSCENT (Multi-Tenant EdTech Platform):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
+*  **ResuMaxxing (AI Micro-SaaS):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
+https://resumaxxing.tech
+*  **ERUSCENT (Multi-Tenant EdTech Platform):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
+https://www.eruscent.com
 
 ---
 
@@ -29,4 +31,4 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 
 ### 📬 **Let's Connect**
 * 📧 **Email:** torcuatorkenneth6@gmail.com
-* 💼 **LinkedIn:** [Your LinkedIn Profile Link Here]
+* 💼 **LinkedIn:** https://www.linkedin.com/in/kenneth-torcuator
