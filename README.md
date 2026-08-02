@@ -8,8 +8,8 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 
 ### 🚀 **Featured Builds & Architecture**
 
-* 🤖 **[ResuMaxxing (AI Micro-SaaS)](https://resumaxxing.tech):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
-* 🎓 **[ERUSCENT (Multi-Tenant EdTech Platform)](https://www.eruscent.com):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
+* **[ResuMaxxing (AI Micro-SaaS)](https://resumaxxing.tech):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
+* **[ERUSCENT (Multi-Tenant EdTech Platform)](https://www.eruscent.com):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
 
 ---
 
@@ -29,7 +29,6 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **AI, Auth & Infrastructure:**  
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -42,10 +41,12 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 
 ### 📊 **Engineering Activity**
 
-![Kenneth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daikendy&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daikendy&layout=compact&theme=dark&hide_border=true)
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=daikendy&show_icons=true&theme=dark&hide_border=true" height="150" alt="Kenneth's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikendy&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
----
+<br>
 
 ### 💡 **Engineering Philosophy**
 > *"Write clean, typed, and scalable code that survives production, but iterate fast enough to ship features in week one."*
