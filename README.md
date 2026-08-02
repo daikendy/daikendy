@@ -8,8 +8,8 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 
 ### 🚀 **Featured Builds & Architecture**
 
-* **[ResuMaxxing (AI Micro-SaaS)](https://resumaxxing.tech):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
-* **[ERUSCENT (Multi-Tenant EdTech Platform)](https://www.eruscent.com):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
+* 🤖 **[ResuMaxxing (AI Micro-SaaS)](https://resumaxxing.tech):** Architected an end-to-end AI platform that automates resume optimization, ATS scoring, and targeted application tailoring using Python LLM orchestrations, Next.js, and PostgreSQL.
+* 🎓 **[ERUSCENT (Multi-Tenant EdTech Platform)](https://www.eruscent.com):** Engineered a multi-tenant SaaS in under 6 weeks. Built a 4-tier RBAC system (Student → Tutor → Admin → Super Admin), implemented strict data boundaries, and automated Dockerized database integration tests via GitHub Actions CI/CD.
 
 ---
 
@@ -38,15 +38,6 @@ Classically trained software engineer with deep backend roots (**Java/Spring Boo
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-### 📊 **Engineering Activity**
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=daikendy&show_icons=true&theme=dark&hide_border=true" height="150" alt="Kenneth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikendy&layout=compact&theme=dark&hide_border=true" height="150" alt="Top Languages" />
-</div>
-
-<br>
 
 ### 💡 **Engineering Philosophy**
 > *"Write clean, typed, and scalable code that survives production, but iterate fast enough to ship features in week one."*
